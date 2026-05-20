@@ -21,7 +21,7 @@
 
 | Project                                                       | Description                                                                                                       | Status |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------ |
-| [libft]                                                       | Reimplementation of core C standard library functions                                                             | ✅     |
+| [libft](https://github.com/irivas-v/libft.git)                | Reimplementation of core C standard library functions                                                             | ✅     |
 | [get_next_line]                                               | Line-by-line file descriptor reader                                                                               | ✅     |
 | [ft_printf]                                                   | Custom `printf` implementation                                                                                    | ✅     |
 | [push_swap]                                                   | Sorting under strict operational constraints, with focus on efficiency                                            | ✅     |
