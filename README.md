@@ -34,7 +34,7 @@
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------ |
 | [Modules_python_00-10]                                    | Introduction to Python programming through practical proyects                                               | ✅     |
 | [A-Maze-ing]                                              | Configurable maze generator with visualization                                                              | ✅     |
-| [exam_rank_03]                                            |                                                                                                             | 🚧     |
+| [exam_rank_03]                                            |                                                                                                             | ✅     |
 | Fly-in                                                    | Capacity-constrained multi-drone routing and turn-based graph simulation in Python                          | 🚧     |
 | CallMeMaybe                                               | LLM function-calling system with constrained decoding, schema enforcement, and reliable structured outputs  | 🚧     |
 
@@ -42,6 +42,6 @@
 
 ## 🌐 Connect
 
-[[GitHub]](https://github.com/Halaquesi)
+[[GitHub]](https://github.com/irivas-v)
 
 ---
